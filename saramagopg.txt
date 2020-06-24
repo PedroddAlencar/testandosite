@@ -1,0 +1,8 @@
+<div class="blocobranco"><br></div>
+			<div class="imgcheia"><img src="saramago.JPG" algin="center" width="98%" alt="capa"/></div>
+			<div class="blocobranco"><br></div>
+			<br class="clearing"/> <br/>
+			<div class="blocobranco"><br></div>
+			<div class="textotrabalho">Ilustração para capa da edição da TAG Livros da obra Ensaio sobre a cegueira, de José Saramago. A Luciana Facchini, responsável pelo projeto da capa e guardas, se utilizou das minhas colagens digitais publicadas no zine 10 Pigs para aludir ao caos e indiscernibilidade da paisagem composta por Saramago. A textura densa, formada por claros e escuros, também remete às dualidades complexas do livro. A Luciana manipulou as ilustrações sobrepondo filtros de cores sobre as texturas.</div>
+			<div class="dadostrabalho">Dor e Febre<br>André Cabetti<br>Autopublicado<br>2018<br>28x21cm</div>
+			<div class="blocobranco"><br></div>

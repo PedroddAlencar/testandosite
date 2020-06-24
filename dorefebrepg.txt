@@ -1,0 +1,8 @@
+<div class="blocobranco"><br></div>
+			<div class="imgcheia"><img src="dorefebrecapa.jpg" algin="center" width="98%" alt="capa"/></div>
+			<div class="blocobranco"><br></div>
+			<br class="clearing"/> <br/>
+			<div class="blocobranco"><br></div>
+			<div class="textotrabalho">Dor e Febre é o primeiro volume de histórias em quadrinho do André Cabetti, quadrinista e jornalista de São Paulo. O gibi autopublicado foi acompanhado por dois cartazes A3 com ilustrações suas. Colaborei prestando apoiando na edição das histórias selecionadas, além de cuidar do projeto gráfico e produção do gibi e cartazes.</div>
+			<div class="dadostrabalho">Dor e Febre<br>André Cabetti<br>Autopublicado<br>2018<br>28x21cm</div>
+			<div class="blocobranco"><br></div>
